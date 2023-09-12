@@ -1,0 +1,33 @@
+h2,
+h4 {
+  text-align: center;
+}
+
+#green {
+  background-color: rgb(30, 198, 30);
+}
+
+#blue {
+  background-color: aqua;
+}
+
+#red {
+  background-color: red;
+}
+#brown {
+  background-color: brown;
+}
+
+button {
+  width: 100px;
+  height: 50px;
+  transition: width 0.4s ease-in-out;
+  margin-left: 0px;
+  border-radius: 5px;
+  margin-top: 0px;
+}
+
+button:hover {
+  width: 200px;
+  height: 50px;
+}

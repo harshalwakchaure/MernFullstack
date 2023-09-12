@@ -1,0 +1,35 @@
+#Home {
+  background-color: orange;
+}
+
+div {
+  width: 100px;
+  border-width: 1px;
+  border-style: solid;
+  padding: 5px;
+  margin-right: -5px;
+}
+
+#normal {
+  background-color: rgb(149, 203, 221);
+}
+
+a {
+  text-decoration: none;
+  color: blue;
+}
+
+#Home2 {
+  display: inline-block;
+  background-color: gray;
+}
+
+#normal2 {
+  display: inline-block;
+  background-color: rgb(188, 185, 185);
+  margin: -10;
+}
+
+#new {
+  color: white;
+}

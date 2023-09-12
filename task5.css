@@ -1,0 +1,66 @@
+h2{
+    color:blue;
+    text-align: center;
+}
+
+
+
+input
+{
+     width:99%;
+     margin:0;
+     display: inline-block;
+
+}
+
+label{
+    display:inline-block;
+}
+
+
+
+td{
+    width:200px;
+}
+
+.h
+{
+    width:20%;
+}
+
+#register
+{
+    width: 5%;
+    
+}
+
+.address
+{
+    height:50px;
+    width:100%;
+}
+
+
+#second
+{
+    text-align: left;
+    border-top: none;
+    border-top-width: 0px;
+    width:663px;
+    
+
+}
+
+
+p{
+    text-align: right;
+}
+
+textarea{
+    width:99%;
+    height:99%;
+}
+
+
+
+

@@ -1,0 +1,61 @@
+img{
+    height:250px;
+}
+
+div{
+    margin:auto;
+    width:400px;
+}
+
+input{
+    width:300px;
+    height:25px;
+    margin-bottom:7px;
+    margin-top:7px;
+    
+}
+
+button{
+    background-color: rgb(26, 193, 26);
+    width:320px;
+    height:35px;
+    color:white;
+    border:none;
+    margin-left:0px;
+    transition: opacity 0.65s ease-in-out;
+    
+    
+}
+
+
+
+#new{
+    display:inline;
+    text-align: left;
+    margin-left:-144px;
+    
+}
+
+input[type=checkbox] {
+    vertical-align: middle;
+    position: relative;
+    bottom: 1px;
+    margin-left: -135px;
+    height:15px;
+}
+
+#red
+{
+    background-color: red;
+    margin-left:539px;
+    width:100px;
+    height:32px;
+    transition: opacity 0.65s ease-in-out;
+}
+
+button:hover{
+    opacity:0.75;
+}
+#red:hover{
+    opacity: 0.75;
+}

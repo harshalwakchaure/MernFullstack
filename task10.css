@@ -1,0 +1,58 @@
+#white
+{
+    margin-bottom: 5px;
+    border-style: solid;
+    border-width:0px;
+    background-color: white;
+    width: 120px;
+    height:35px;
+    text-align: center;
+    font-size: 25px;
+    text-align: left;
+    border-right:0px;
+
+}
+
+button{
+    background-color: black;
+    width:5px;
+    height:35px;
+    float:right;
+}
+
+body{
+    background-color: yellow;
+}
+
+a{
+    text-decoration: none;
+}
+
+#main
+{
+    display:inline-block;
+    width:120px;
+}
+
+#new{
+    display:inline-block;
+    position:fixed;
+    padding-left:50px;
+}
+
+#cursive
+{
+    font-family: cursive;
+    font-size: 20px;
+    font-style: italic;
+}
+
+p{
+    color:purple;
+    font-weight: bolder;
+    font-size:large;
+}
+
+h1{
+    color:purple;
+};

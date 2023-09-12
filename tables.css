@@ -1,0 +1,22 @@
+table{
+background-color: rgba(28, 191, 194, 0.841);
+width: 570px;
+height:120px;
+padding: 1px;
+border-color:black;
+border-width: 1px;
+border-style: solid;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+
+
+th{
+    border-radius: 75px;
+}
+
+td{
+    border-radius:75px;
+}

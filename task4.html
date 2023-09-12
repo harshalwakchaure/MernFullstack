@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task 4</title>
+    <style>
+        label
+        {
+            font-family: 'Times New Roman', Times, serif;
+            font-size: 14px;
+        }
+
+        input
+        {
+            border-radius: 1px;
+            margin-left: 20px;
+            border-width: 1px;
+            border-style: solid;
+        
+        }
+
+        #submit
+        {
+            margin-left:0px;
+
+        }
+
+        #repass
+        {
+            margin-left:0px;
+        }
+
+        select{
+            margin-left:44px;
+        }
+    </style>
+</head>
+<body>
+    <form>
+        <label for="FullName">Full Name:&nbsp;&nbsp;&nbsp;</label>
+        <input name="FullName" type="text" placeholder="Enter Full Name">
+        <br><br>
+        <label for="Username">Username:&nbsp;&nbsp;&nbsp;</label>
+        <input name="Username" type="text" placeholder="Enter Valid Usename">
+        <br><br>
+        <label for="Password">Password:&nbsp;&nbsp;&nbsp;&nbsp;</label>
+        <input name="Password" type="password" placeholder="Enter Password">
+        <br><br>
+        <label for="Re Password">Re-Password:&nbsp;&nbsp;&nbsp;&nbsp;</label>
+        <input id="repass" name="Re Password" type="password" placeholder="Re-Enter Password">
+        <br><br>
+        <label for="Address">Address:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+        <input name="Address" type="text" placeholder="Enter Your Address">
+        <br><br>
+        <label for="Age">Age:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+        <input name="Age" type="number" placeholder="Enter Your Age">
+        <br><br>
+        <label for="Gender">Gender:</label>
+        <select name="Gender">
+            <option>Male</option>
+            <option>Female</option>
+        </select>
+        <br><br>
+        <input id="submit" type="submit" value="Save">
+    </form>
+</body>
+</html>

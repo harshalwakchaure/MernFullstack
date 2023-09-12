@@ -1,0 +1,40 @@
+.toprow
+{
+    background-color: rgba(131, 211, 10, 0.805);
+}
+
+.grey
+{
+    background-color: lightgray;
+}
+
+.white
+{
+    background-color: white;
+}
+
+table{
+    width: 500px;
+    height:300px;
+    border-collapse: collapse;
+    border-width:0px;
+}
+
+td
+{
+    margin-left:-2px;
+    margin-right:-2px;
+    border-right:0px;
+    border-left:0px;
+}
+
+th{
+    border-right:0px;
+    border-left:0px;
+}
+
+div{
+    border-width:1px;
+    border-style: solid;
+    width:500px;
+}
